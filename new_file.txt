@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hjashvhasvii adalah file baru
 -
 -
 -
 -
+=======
+ii adalah file baru
+>>>>>>> parent of b8791da (edit)
